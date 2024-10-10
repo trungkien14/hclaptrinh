@@ -1,0 +1,4 @@
+.custom-box-sizing {
+  box-sizing: content-box;
+  width: 900px;
+}
