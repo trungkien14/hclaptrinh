@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div class="loichuc">
+            <p>Chuc cac ban hoc tot</p>
+            <p>Chuc cac ban hoc tot</p>
+            <p>Chuc cac ban hoc tot</p>
+        </div>
+        <p>Xin chao</p>
+        <a class="click" href="https://www.reddit.com/r/PokemonHGSS/comments/1ci36kq/how_do_i_use_waterfall/">click vao day</a>
+        
+    </body>
+</html>
