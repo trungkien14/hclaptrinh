@@ -2,10 +2,3 @@
   box-sizing: content-box;
   width: 900px;
 }
-
-p:active {
-  color: blue;
-}
-.click:empty {
-  color: red;
-}
