@@ -1,4 +1,7 @@
-.custom-box-sizing {
-  box-sizing: content-box;
+.box {
   width: 900px;
+  margin: 70px auto;
+}
+.box1 {
+  margin-top: 0px ;
 }
